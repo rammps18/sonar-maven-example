@@ -1,1 +1,2 @@
 # sonar-maven-example
+# Hello
